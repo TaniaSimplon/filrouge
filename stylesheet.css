@@ -1,0 +1,115 @@
+.solebike{
+    max-width: 100%;    
+    height: auto;
+    
+}
+
+.logolrt{
+    width: 30px;
+    height: auto;
+    color: white;
+    background-color:black;
+
+}
+.carousel-item.active, .carousel-item-next,.carousel-item-prev {
+  display: block;
+}
+.text1, h5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(241, 83, 10)  ;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.text2, .text3, h6{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+}
+#orangebbt{
+    background-color: rgb(241, 83, 10)  ;
+    color: white;
+    font-weight: bold;
+}
+ .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+
+}
+.field{
+    background-color:#051429;
+ 
+
+    border: blanchedalmond;
+    color: white;
+}
+.img-fluid{
+    background-image: initial cover;
+}
+
+.p1{
+    margin-right: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    font-variant-numeric: normal; 
+    font-variant-east-asian: normal; 
+    font-stretch: normal; 
+    font-size: 12px; 
+    line-height: normal; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);"
+}
+
+.footer{
+    justify-content: center;
+}
+
+#textspan{
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.quitext{
+    font-size: 1.5em; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.jumbohead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4em; 
+
+}
+.jumbonous{
+    background-color: rgb(255, 255, 255);
+    justify-content: end;
+}
+
+.jumbotron{
+    background-color: rgb(255, 255, 255);
+}
+
+#logowall{
+    width: 55em;
+    height: auto;
+}
+#borderform{
+   
+}
+
+.fieldset {
+    background-color: #1b2e45;
+    
+    /* border: blanchedalmond; */
+    color: white;
+    justify-content: center;
+}
+.imageContact{
+    background: url("imgred/lyonlight.jpg") center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
